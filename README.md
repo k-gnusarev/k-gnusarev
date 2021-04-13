@@ -8,9 +8,9 @@
 
 **Владею следующим стеком:**
 
-* HTML
-* CSS
-* JS
+* HTML5
+* CSS3
+* JS (ES5, ES6)
 * React.js
 * Webpack
 * Git
