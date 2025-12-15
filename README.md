@@ -1,4 +1,4 @@
 **Contacts**
 
-* Email: noizia64@gmail.com
+* Email: gnusarevkv@gmail.com
 * TG: [@TurtleBro](https://t.me/TurtleBro)
